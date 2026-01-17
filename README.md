@@ -2,8 +2,7 @@
 
 I need to make computation on image coming from Quest 3 Camera API on LAN or distance PC
 
-Flask Server: https://github.com/EloiStree/2025_06_13_QuestFlaskServerColor32
-
+Flask Server:  https://github.com/EloiStree/2025_06_13_python_texture2d_flask_server_color32
 
 ----------------
 
@@ -12,3 +11,6 @@ To Do:
   - Make a lot of image db to test on with shader, job system and compute shader in aim to do test without having to put the headset
 - Explore the position from pixel position
 - Try to push Texture to Flask server to use opencv install on PC using Color32 bytes export.
+
+
+<img width="1059" height="562" alt="image" src="https://github.com/user-attachments/assets/00988673-379e-411d-8ffa-4e3acb06a312" />
